@@ -8,10 +8,13 @@
 </head>
 <body>
 	<div class="container">
+		<div class="lil">
+			<img src="img/12.png">
+		</div>
 		<div class="row col-1">
 			<div class="reg">	
 				<form action="reg.php" method="POST">
-					<h2>INSTAGRAAMMM</h2>
+					<h2>INSTAGRAM</h2>
 					<input type="" name="email" placeholder="Моб.телефон или эл.адрес" class="mt-1">
 					<input type="" name="name" placeholder="Имя и Фамилия" class="mt-2">
 					<input type="" name="username" placeholder="Имя пользователя" class="mt-2">
